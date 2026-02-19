@@ -1,6 +1,3 @@
-```md
-## 3️⃣ Latency-Monitor
-
 # 🌐 Latency Monitor
 
 Multi-endpoint latency monitoring and visualization tool.  
